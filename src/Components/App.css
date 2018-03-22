@@ -1,0 +1,13 @@
+.app {
+    background: #23293F;
+    height: 700px;
+    width: 1200px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-container {
+    flex: 1;
+    display: flex;
+}
